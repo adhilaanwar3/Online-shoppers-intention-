@@ -54,9 +54,4 @@ Example: "Random Forest achieved the highest accuracy of 89% with balanced preci
 🔧 Requirements
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost 
 
-🚀 How to Run
-Clone the repo
-Open the provided Colab link
-Or run the code locally using Jupyter Notebook
 
-📌 Credits
