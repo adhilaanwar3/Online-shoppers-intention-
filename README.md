@@ -1,8 +1,4 @@
-ChatGPT
-You said:
-https://colab.research.google.com/drive/14QazoBA6DGmDwHpzw0R5tO4RrNXNwq38?usp=sharing Make readme file for GitHub 
-ChatGPT said:
-Here’s a professional and complete README.md file for your GitHub project based on the shared Google Colab link. You can copy-paste this into a file named README.md in your repository:
+
 🛍️ Online Shoppers Purchasing Intention Prediction
 This project analyzes the Online Shoppers Purchasing Intention Dataset to understand user behavior and predict the likelihood of a purchase. It includes data preprocessing, exploratory data analysis (EDA), and multiple machine learning models to evaluate performance.
 🔗 Open in Google Colab (https://colab.research.google.com/drive/14QazoBA6DGmDwHpzw0R5tO4RrNXNwq38?usp=sharing)
